@@ -16,6 +16,7 @@
   <a href="https://sysadmin.pt"><img src="https://img.shields.io/badge/%24%20visit-sysadmin.pt-2ECC71?style=for-the-badge&logo=hackthebox&logoColor=2ECC71&labelColor=0d1117" alt="sysadmin.pt" /></a>
   <img src="https://img.shields.io/badge/available%20for%20engagements-0d1117?style=for-the-badge&logo=statuspage&logoColor=2ECC71" alt="available for engagements" />
   <img src="https://komarev.com/ghpvc/?username=mgarces&style=for-the-badge&color=2ECC71&label=visitors&labelColor=0d1117" alt="profile views" />
+  <img src="https://img.shields.io/badge/fueled%20by-pizza%20%F0%9F%8D%95-E5A100?style=for-the-badge&labelColor=0d1117" alt="fueled by pizza" />
 </p>
 
 </div>
