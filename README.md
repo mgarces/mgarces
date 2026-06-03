@@ -31,7 +31,7 @@
 ```
 
 - 🐧 **Co-Founder & CTO** @ PoetikPenguin — independent infra practice ([sysadmin.pt](https://sysadmin.pt))
-- ☁️  Cloud architecture on **AWS / GCP / Azure** — greenfield to multi-region, designed for the bill at the end of the month
+- ☁️  Cloud architecture on **AWS / GCP / Azure (...but i rather not)** — greenfield to multi-region, designed for the bill at the end of the month
 - 🤖 Automation & **IaC** that survives the team that wrote it
 - 🚨 **SRE**: SLOs, runbooks, on-call and incident review — practiced, not theorized
 - 🔐 Zero-trust networks, mesh VPN, and the boring kind of infra that just works at 3am
@@ -41,10 +41,10 @@
 ### `$ ls /opt/toolbelt`
 
 ```text
-Cloud           │ AWS  GCP  Azure  OpenStack
+Cloud           │ AWS  GCP  Azure(please, no)  OpenStack
 Orchestration   │ Kubernetes  Docker  ECS  EKS  GKE
 IaC             │ Terraform  Ansible  CloudFormation  Chef  Puppet  SaltStack
-CI/CD           │ GitHub Actions  GitLab CI  Jenkins  Drone  Azure DevOps
+CI/CD           │ GitHub Actions  GitLab CI  Jenkins  Drone
 Networks        │ WireGuard  Tailscale  Netbird  BGP  NGINX  HAProxy  Traefik
 Storage         │ Ceph  ZFS  S3  RDS  Aurora  DynamoDB
 Observability   │ Prometheus  Grafana  Loki  ELK  PagerDuty
